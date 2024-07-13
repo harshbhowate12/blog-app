@@ -1,0 +1,40 @@
+.home-info{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    height: 400px;
+    width: 100%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    height: 350px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    border-radius: 60% 174% 0% 0%;
+}
+.head1{
+   font-size: 60px;
+   margin: 100px 200px 0 200px;
+   align-content: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.head2{
+    font-size: 17px;
+    font-weight: light;
+    align-content: center;
+    margin: 30px 310px;
+}
+.cards-head{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    margin: 10px 50px;
+}
+
+.cards-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
